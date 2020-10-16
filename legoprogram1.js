@@ -1,0 +1,1 @@
+sensors.ultrasonic4.pauseUntil(UltrasonicSensorEvent.ObjectDetected)
